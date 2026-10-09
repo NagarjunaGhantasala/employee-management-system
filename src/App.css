@@ -1,0 +1,32 @@
+.container {
+  width: 600px;
+  margin: 40px auto;
+  font-family: Arial;
+}
+
+h1 {
+  text-align: center;
+}
+
+form {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 30px;
+}
+
+input {
+  padding: 10px;
+  width: 150px;
+}
+
+button {
+  padding: 10px 15px;
+  cursor: pointer;
+}
+
+.employee {
+  border: 1px solid #ccc;
+  padding: 15px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+}
